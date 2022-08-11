@@ -1,0 +1,23 @@
+=================
+Before The Start
+=================
+1.Open File. [Learn Code > JavaScript > Project > Project-99]
+2.Open VS Code Editor. [ ]
+3.Open YouTube.[Coding Nepal]
+5.Open Git Bash
+===================
+Learning Speed : Start Date: 20/06/2022
+==================
+
+//Day1 
+Date: 20/06/2022 
+ 01.Build A Simple Alarm
+ 02.Download Any File
+ 03.QR Code Scanner or Reader 
+ 04.Build A Language Translator App
+ 05.Build A Notes App
+ 06.QR Code Generator
+ 07.Build A Palindrome Chacker
+ 08.Create A Todo List App
+ 09.Create A Custom Select Menu
+ 10.Build A Memory Card Game

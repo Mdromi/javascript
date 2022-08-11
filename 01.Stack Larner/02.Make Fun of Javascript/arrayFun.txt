@@ -1,0 +1,37 @@
+=================
+Before The Start
+=================
+1.Open File. [Learn Code > JavaScript > Stack Larner > Full Stack Army]
+2.Open VS Code Editor. [ ]
+3.Open YouTube.[stack larner]
+5.Open Git Bash
+===================
+Learning Speed : Start Date: 26/06/2022
+==================
+
+//Day1 
+CP:01 Fundamentals of Array
+Date:26/06/2022 
+ 1.Why Do We Need Array[v-1.1][s-1.1]
+ 2.How Does Array Work [v-1.2]
+ 3.What we can store JS Array [v-1.3]
+ 4.Understand Multi Dimensional Array [v-1.4]
+
+//Day1 
+CP:02 Fundamentals of Array
+Date:26/06/2022 
+ 1.Array Literal[v-2.1][s-2.1]
+ 2.Array Constructor vs Factory [v-2.2]
+ 3.Traverse Array Elements [v-2.3]
+ 4.Update Array Elements [v-2.4]
+ 5.Array of Everything [v-2.5]
+ 
+//Day1 
+CP:02 Fundamentals of Array
+Date:27/06/2022 
+ 1.Add New Elements in Array[v-3.1]
+ 2.Update Existing Elements [v-3.2]
+ 3.Delete Elements in Array [v-3.3]
+ 4.Concat Multiple Arrays [v-3.4]
+ 5.Slice Array into Multiple Arrays [v-3.5]
+ 

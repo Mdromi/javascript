@@ -1,0 +1,350 @@
+=================
+Before The Start
+=================
+1.Open File. [Learn Code > JavaScript > Stack Larner > JS_FOR_ALL]
+2.Open VS Code Editor. [ ]
+3.Open Browser.[Go W3 Schools]
+4.Open pdf book. [file > pdf > JavaScript> ]
+5.Open Git Bash
+===================
+Learning Speed : Start Date: 13/03/2022
+==================
+Course Structure{
+	[ 01.Introductions, 02.Programming Basics, 03.Logic and Conditions, 04.Loops and Repetition, 05.Handling String, 06.Arrays, 07.Objects, 08.Functions, 09.Functional Programming, 10.Scope and Closure, 11.OOP Intro, 12.OOP With JS, 13.Prototype, 14.Prototype Inheritance, 15.ES6, 16.Error Handling, 17.Asynchronous Programming, 18.DOM, 19.Library 20.Project ]
+}
+
+//Day1 
+CP:01 Introductions
+Date:13/03/2022 
+ 1.Js Course Introductions[v-001] [Notes]
+ 2.Who is This Course For[v-002] [Notes]
+ 3.Who to use This Course Contents[v-003] [Notes]
+ 4.Setup Working Environment[v-004] [Notes]
+
+//Day1 
+CP:02 Programming Basics
+Date:13/03/2022 
+ 1.Console.log[v-005][s-01]
+ 2.Variables[v-006][s-02]
+ 3.Reserved Words[v-007] [Notes]
+ 4.DataTypes[v-008][Notes]
+ 5.Basic Numbers[v-009][s-03]
+ 6.String[v-010][s-04]
+ 7.Booleans[v-011][s-05]
+ 8.Null & Undefined[v-012][s-06]
+ 9.Type Conversion[v-013][s-07]
+ 10.Octal & Hexadecimal [v-014][s-08]
+ 11.Constants[s-09]
+ 12.Operators[v-015][s-10]
+ 13.Statements[v-016][s-11]
+ 14.Math Function[v-017][s-12]
+ 15.Date Function[v-018][s-13]
+ 16.Comments[v-019][Notes]
+ 
+//Day2 
+CP:03 Logic and Conditions
+Date:14/03/2022 
+ 1.Logic and Conditions[v-020] [Notes]
+ 2.If Conditions[v-021] [s-01]
+ 3.Else Conditions[v-022] [s-02]
+ 4.Else If Conditions[v-023] [s-03]
+ 5.Switch Conditions[v-024] [s-04]
+ 6.logical Operator[v-025] [s-05]
+ 7.Ternary Operator[v-026] [s-06]
+ 8.logical And Or[v-027] [s-07]
+
+//Day2 
+CP:04 Loops and Repetition
+Date:14/03/2022 
+ 1.Introduction Loops[v-028] [s-01]
+ 2.For Loop[v-029] [s-02]
+ 3.Loop[v-030] [s-03]
+ 4.Do While Loop[v-031] [s-04]
+ 5.Nasted Loop[v-032] [s-05]
+ 6.Break[v-033] [s-06]
+ 7.Continue[v-034] [s-07]
+ 8.Ifinity For Loop[v-035] [s-08]
+ 
+//Day3 
+CP:05 Handling String 
+Date:16/03/2022 
+ 1.String[v-036] [s-01]
+ 2.String Literal vs Constructor[v-037] [s-02]
+ 3.Escape Notation[v-038] [s-03]
+ 4.String Comparison[v-039] [s-04]
+ 5.String Methods[v-040] [s-05]
+ 6.String Length[v-041] [s-06]
+ 
+//Day4 
+CP:06 Arrays 
+Date:21/03/2022 
+ 1.Arrays[v-042] [s-01]
+ 2.Array Declaration[v-043] [s-02]
+ 3.Array Traversing[v-044] [s-03]
+ 4.Array Insert Remove and Replace[v-045] [s-04]
+ 5.Search Value in Array[v-046] [s-05]
+ 6.Multidimensional Array[v-047] [s-06]
+ 7.Reverse An Array[v-048] [s-07]
+ 8.Array Methods[v-049] [s-08]
+  
+//Day5 
+CP:07 Objects 
+Date:23/03/2022 
+ 1.Objects[v-050] [s-01]
+ 2.Object Literal vs Constructor[v-051] [s-02]
+ 3.Accessing Object Properties[v-052] [s-03]
+ 4.Setting Object Properties[v-053] [s-04]
+ 5.Remove Object Properties[v-054] [s-05]
+ 6.Comparing Two Objects[v-055] [s-06]
+ 7.Iterate Object Properties[v-056] [s-07]
+ 8.Object Methods[v-057] [s-08]
+ 
+//Day6 
+CP:08 Functions 
+Date:26/03/2022
+ 1.Functions[v-058] [s-01]
+ 2.Defining a Function[v-059] [s-02]
+ 3.Invoking a Function[v-060] [s-03]
+ 4.Function Arguments and Parameters[v-061] [s-04]
+ 5.Argument Object[v-062] [s-05]
+ 6.Return Function[v-063] [s-06]
+ 7.Function Expression[v-064] [s-07]
+ 8.Inner Function[v-065] [s-08]
+ 9.Function Scoping[v-066] [s-09]
+ 
+//Day7 
+CP:09 Functional Programming 
+Date:28/03/2022
+ 1.Functional Programming[v-067] [s-01]
+ 2.Pure Functions[v-068] [s-02]
+ 3.First Class Function[v-069] [s-03]
+ 4.Higher Order Function[v-070] [s-04]
+ 5.Closure First Look[v-071] [s-05]
+ 6.Callback Function[v-072] [s-06]
+ 7.Foreach Implementation[v-073] [s-07]
+ 8.Map Function[v-074] [s-08]
+ 9.Filter Function[v-075] [s-09]
+ 10.Reduce Function[v-076] [s-10]
+ 11.Find and Findlndex Function[v-077] [s-11]
+ 12.Sort, Some and Every Function[v-078] [s-12]
+ 13.Return Function From Another Function[v-079] [s-13]
+ 14.Recursive Function[v-080] [s-14]
+ 15.Currying[v-081] [s-15]
+ 16.Function Composition[v-082] [s-16]
+ 
+//Day8 
+CP:10 Scope and Closure 
+Date:06/04/2022
+ 1.JavaScript Engine[v-083] [s-01]
+ 2.Compiled vs Interpreted[v-084] [s-02]
+ 3.Execution Context[v-085] [s-03]
+ 4.Creation and Execution Context[v-086] [s-04]
+ 5.Variable Object Creation[v-087] [s-05]
+ 6.Execution Context and Function[v-088] [s-06]
+ 7.Hosting in JavaScript[v-089] [s-07]
+ 8.Function Declaration vs Expression[v-090] [s-08]
+ 9.Scope[v-091] [s-09]
+ 10.Nested Scope[v-092] [s-10]
+ 11.Lexical Scope[v-093] [s-11]
+ 12.Scope Chain[v-094] [s-12]
+ 13.Closure[v-095] [s-13]
+ 14.Closure and Loops[v-096] [s-14]
+ 
+//Day9 
+CP:11 OOP Intro 
+Date:08/04/2022
+ 1.Introduction to OOP[v-097] [s-01]
+ 2.Think Everything as an Object[v-098] [s-02]
+ 3.Method and Properties[v-099] [Notes]
+ 4.Class in OOP[v-100] [s-03]
+ 5.Four Pillars of OOP[v-101] [Notes]
+ 6.Abstraction[v-102] [Notes]
+ 7.Encapsulation[v-103] [Notes]
+ 8.Inheritance[v-104] [Notes]
+ 9.Polymorphism[v-105] [Notes]
+ 
+//Day10
+CP:12 OOP With JS 
+Date:11/04/2022
+ 1.Intro to Object Oriented[v-106] [s-01]
+ 2.Object Literal[v-107] 
+ 3.'This' JavaScript[v-108]
+ 4.Factory Pattern[v-109]
+ 5.Constructor Pattern[v-110]
+ 6.'New' Keyword[v-111]
+ 7.Factory vs Constructor Pattern[v-112]
+ 8.Constructor Property of a Constructor Function[v-113]
+ 9.Function are Object[v-114]
+ 10.Bind, Call, Apply[v-115]
+ 11.Pass By Value vs Pass By Reference[v-116]
+ 12.Abstraction[v-117]
+ 13.Hide Private Properties[v-118]
+ 14.How to use Getter Setter[v-119]
+ 
+//Day11
+CP:13 Prototype 
+Date:19/04/2022
+ 1.Intro to Prototype[v-120] [Notes]
+ 2.Prototype and Prototypical[v-121] [s-01]
+ 3.Multi Level Inheritance[v-122] [s-02]
+ 4.Property Descriptor[v-123] [s-03]
+ 5.Constructor Prototype[v-124] [s-04]
+ 6.Instance vs Prototype[v-125] [s-05]
+ 7.Using Instance vs Prototype Members[v-126] [s-06]
+ 8.Iterate Object vs HasOwnProperty[v-127] [s-07]
+ 9.Don't Overwrite Built in Prototypes[v-128] [s-08]
+ 
+//Day12
+CP:14 Prototype Inheritance 
+Date:21/04/2022
+ 1.First Prototypical Inheritance[v-129] [s-01]
+ 2.Rest Constructor After Inheritance[v-130] [s-02]
+ 3.Calling Super With Call Method[v-131] [s-03]
+ 4.Creating Extends Function[v-132] [s-04]
+ 5.Method Overriding[v-133] [s-05]
+ 6.Polymorphism[v-134] [s-06]
+ 7.When use Inheritance[v-135] [Notes]
+ 8.Inheritance & Composition Mixing[v-136] [s-07]
+ 
+//Day13
+CP:15 ES6
+Date:25/04/2022
+ 1.What is ES6[v-137] [Notes]
+ 2.Setup Environment[v-138] [Notes]
+ 3.Template String[v-139] [s-01]
+ 4.Let vs Const vs Var[v-140] [s-02]
+ 5.Arrow Function Syntax[v-141] [s-03]
+ 6.Arrow Function & This[v-142] [s-04]
+ 7.Default Parameters[v-143] [s-05]
+ 8.Custom Iterable Object[v-144] [s-06]
+ 9.Rest & Spread Operator[v-145] [s-07]
+ 10.Enhance Object[v-146] [s-08]
+ 11.Destructuring in JavaScript[v-147] [s-09]
+ 12.Object From Entries[v-148] [s-10]
+ 13.Symbols in JavaScript[v-149] [s-11]
+ 14.Webpack 4+ Babel [v-150] [Notes]
+ 15.Iterator Basics [v-151] [s-12]
+ 16.Iterator Symbol [v-152] [s-13]
+ 17.For of Loop [v-153] [s-14]
+ 18.Generators [v-154] [s-15]
+ 19.Set [v-155] [s-16]
+ 20.Map [v-156] [s-17]
+ 21.Weak Set [v-157] [s-18]
+ 22.Weak Map [v-158] [s-19]
+ 23.Class [v-159] [s-20]
+ 24.Class Properties [v-160] [s-21]
+ 25.Static Method [v-161] [s-22]
+ 26.This in JavaScript [v-162] [s-23]
+ 27.Private Data With Symbol [v-163] [s-24]
+ 28.Private Properties With WeakMap [v-164] [s-25]
+ 29.Getter or Setter in ES6 [v-165] [s-26]
+ 30.Inheritance in ES6 [v-166] [s-27]
+ 31.Method Overriding in ES6 [v-167] [s-28]
+ 32.ES6 Modules System [v-168] [s-29]
+ 
+//Day14
+CP:16 Error Handling
+Date:02/06/2022
+ 1.Error Handling[v-169] [s-01]
+ 2.Error Handling with if Else[v-170] [s-02]
+ 3.Error Handling with Try Catch[v-171] [s-03]
+ 4.Throwing an Error [v-172] [s-04]
+ 5.Finally Block [v-173] [s-05]
+ 6.Optional Carch Binding [v-174] [s-06]
+ 7.Custom Error [v-175] [s-07]
+ 
+//Day15
+CP:17 Asynchronous Programming
+Date:06/06/2022
+ 1.What is Asynchronous Programming[v-176] [Notes]
+ 2.Asynchronous Programming Action[v-177] [s-01] 
+ 3.How to Store Result from Async Function [v-178] [s-02] 
+ 4.Why does Javascript Act Like Asynchronous [v-179] [Notes] 
+ 5.How JS Handle Asynchronous [v-180] [Notes] 
+ 6.V8 Engine In Javascript [v-181] [Notes] 
+ 7.How to handle Asynchronous Tasks [v-182] [Notes] 
+ 8.What is Ajax [v-183] [s-03]
+ 9.Ajax with Callback [v-184] [s-04]
+ 10.Callback Not Always Asynchronous [v-185] [s-05]
+ 11.Why Not Callback [v-186] [s-06]
+ 12.Introduction Promise [v-187] [s-07]
+ 13.Implement Fetch API [v-188] [s-08]
+ 14.Promise API [v-189] [s-09]
+ 15.Async Await [v-190] [s-10]
+ 16.Async Iterator [v-191] [s-11]
+ 17.For Await of Loop [v-192] [s-12]
+ 18.Async Generators[v-193] [s-13]
+ 
+//Day15
+CP:18 Asynchronous Programming
+Date:13/06/2022
+ 1.Introduction to DOM [v-194] [Notes]
+ 2.Window Object [v-195] [s-01]
+ 3.Document Object [v-196] [s-02]
+ 4.Selector Part One [v-197] [s-03]
+ 5.Selector Part Two [v-198] [s-04]
+ 6.GetElements Method vs Query Selector [v-199] [s-05]
+ 7.How to Traverse DOM Elements [v-200] [s-06]
+ 8.How to Loop Throw HTML Collection [v-201] [s-07]
+ 9.Create DOM Elements [v-202] [s-08]
+ 10.Insert Adjacent Element [v-203] [s-09]
+ 11.Updare or Remove any DOM [v-204] [s-10]
+ 12.How to clone Node Include it's child Elements [v-205] [s-11]
+ 13.Deal with Attributes [v-206] [s-12]
+ 14.Style DOM [v-207] [s-13]
+ 15.Introduction to Event DOM [v-208] [s-14]
+ 16.Event Delegation in DOM [v-209] [s-15]
+ 17.Input Box Event Handling [v-210] [s-16]
+ 18.Check Box Event Handling [v-211] [s-17]
+ 19.List and Input Event Handler [v-212] [s-18]
+ 20.Form Handling in DOM [v-213] [s-19]
+ 21.Form Validation in DOM [v-214] [s-20]
+ 22.AJAX Get Request [v-215] [s-21]
+ 23.AJAX Post Request [v-216] [s-22]
+ 24.Conclusion of DOM [v-217] [Notes] !importan Conversation JS
+ 
+ //Day16
+CP:19 Library
+Date:17/06/2022
+ 1.What is Library [v-218] [Notes]
+ 2.JQuery - Javascript DOM [v-219] [Notes]
+ 3.Lodash Javascript Utility Library [v-220] [Notes]
+ 4.Underscore Library [v-221] [Notes]
+ 5.Math JS Library [v-222] [Notes]
+ 6.Moment JS Library [v-223] [Notes]
+ 7.Collect JS Library [v-224] [Notes]
+ 8.Axios - HTTP Client Library [v-225] [Notes]
+ 9.Conclusion of this Course [v-226] [Notes]
+ 10.Frontend in Javascript[v-227] [Notes]
+ 11.Backend in Javascript[v-228] [Notes]
+ 12.Fullstack Development in Javascript[v-229] [Notes]
+ 13.Mobile Frameworks in Javascript[v-230] [Notes]
+ 14.Desktop Frameworks in Javascript[v-231] [Notes]
+ 
+  //Day17
+CP:20 Project
+Date:22/06/2022
+ 1.Introduction to Our Project [v-232] [Notes]
+ 2.Setup & Resources for our project [v-233]
+ 3.User Permission for Location [v-234]
+ 4.Setting weather Information [v-235]
+ 5.Handle User Input [v-236]
+ 6.Setup Backend Server [v-237]
+ 7.MongDB Database & Mongoose [v-238]
+ 8.Create History [v-239]
+ 9.Create History Router [v-240]
+ 10.History Request [v-241]
+ 11.Using Callback to Post new History [v-242]
+ 12.Deploying Apps [v-243]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

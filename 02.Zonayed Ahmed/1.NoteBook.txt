@@ -1,0 +1,65 @@
+=================
+Before The Start
+=================
+1.Open File. [Learn Code > JavaScript > Zonayed Ahmed]
+2.Open VS Code Editor. [ ]
+3.Open Browser.[Go W3 Schools]
+4.Open pdf book. [file > pdf > JavaScript> ]
+5.Open Git Bash
+===================
+Learning Speed : Start Date: 10/03/2022
+==================
+
+//Day1 
+CP: 01 Basics
+Date:13/03/2022 
+ 1.What, how, when?[Notes]
+ 2.Who to ue This Course [Notes]
+ 3.Variable or DataTypes[l-03][s-03]
+ 4.Comments[l-04][Notes]
+ 5.Operator[l-05][s-04]
+ 6.Conditonal Statement[l-06][s-05]
+ 7.Loop[l-07][s-06]
+
+//Day2 
+CP: 01 Basics
+Date:20/04/2022 
+ 8.Array[l-08][s-08]
+ 9.Object[l-09][s-09]
+ 10.Function[l-10][s-10]
+ 11.Statement[l-11][s-10]
+ 12.DRY[l-12][Notes]
+ 12.DRY[l-12][Notes]
+ 13.ECMAScript[l-13][Notes]
+ 14.Behind the seen[l-14][Notes]
+ 15.Hoisting[l-15][Notes]
+ 16.Scope[l-16][Notes]
+ 17.Closure[l-17][Notes]
+ 18.IIFE[l-18][Notes]
+ 
+ 
+ //Day3
+CP: 02 JavaScript Advance
+Date:10/05/2022 
+ 00.This Keyword [L-00][s-00]
+ 01.Call Method [L-1.1][s-01.1]
+ 02.apply Method [L-1.2][s-01.2]
+ 03.bind Method [L-1.3][s-01.3]
+ 04.Object [L-2][s-02]
+ 05.Wrapper [L-2][s-02.2]
+ 06.Func Constructur or New Keyword [L-3][s-3]
+
+//Day4
+CP: 03 JavaScript ES6
+Date:30/07/2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

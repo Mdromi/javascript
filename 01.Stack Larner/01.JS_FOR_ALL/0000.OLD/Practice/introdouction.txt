@@ -1,0 +1,31 @@
+====================
+Learning JavaScript
+=======================
+1.Always Use Notebook
+2.Always Type Code In Editor
+3.Find Related Examples and Crate Examples
+4.Spend Some Moment on Each Chapter
+5.Discuss with Others What You Have Learned/Stack Overflow,Qura,Medium
+
+===========================
+CONDICION
+==========================
+1.String + Number = String;
+2.String + Anything = String;
+3.
+
+
+===========================
+DEFINITION
+==========================
+1.What is Variables?
+=JavaScript variables are containers for storing data values.
+=JavaScript variables can hold many data types: numbers, strings, objects and more:
+==JavaScript variables are containers for storing data,values,string,number,function,object.
+==Variables make up things from numbers to objects, which are
+all over JavaScript to make one's life much easier.
+
+2.What Is DOM?
+=DOM stands for Document Object Model.It is an object-oriented representation of structured documents like XML
+and HTML.
+==

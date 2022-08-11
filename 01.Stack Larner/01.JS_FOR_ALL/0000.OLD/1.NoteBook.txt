@@ -1,0 +1,63 @@
+=================
+Before The Start
+=================
+1.Open File. [Learn Code > JavaScript > JS_FOR_ALL > Stack Larner > OLD]
+2.Open VS Code Editor. [ ]
+3.Open Browser.[Go W3 Schools]
+4.Open pdf book. [file > pdf > JavaScript> ]
+5.Open Git Bash
+===================
+Learning Speed : Start Date: 26/12/2020
+==================
+//Day1 
+CP:2
+Date:26/12/2020 
+ 1.Console.log
+ 2.Variables
+ 3.DataTypes
+
+//Day2 
+CP:2
+Date:28/12/2020
+ 4.String.js
+ 5.TypeConversion
+ 6.Built-in Constants
+
+//Day3 
+CP:2
+Date:29/12/2020
+ 7.Operator
+
+//Day4 
+CP:2
+Date:4/1/2021
+ 8.Statements
+ 9.Math()
+ 10.Date
+
+ //Day5 
+CP:3
+Date:5/1/2021
+ 1.if
+ 2.else
+ 3.else_if
+
+//Day5 
+CP:3
+Date:6/1/2021
+ 4.Switch.js
+ 5.Logical/Relational Operators
+
+//Day6
+CP:3
+Date:7/1/2021
+ 6.Ternary Operators
+ 7.logical And Or
+
+//Day6
+CP:4
+Date:7/1/2021
+ 1.Loop
+ 2.For Loop
+ 3.While Loop
+ 4.Do While Loop
