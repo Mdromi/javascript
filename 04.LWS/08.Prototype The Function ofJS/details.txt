@@ -1,0 +1,3 @@
+Prototype  হচ্ছে Javascript যেকোনো ফাংশনের একটা Property যেটা আসলে একটা object কে পয়েন্ট করে।
+
+যে ফাংশনের মাধ্যমে একটা অবজেক্ট কনস্ট্রাক করা হয় তাকে কনস্ট্রাক্ট ফাংশন বলে। javascript এ By Default  সকল function ই construct function। কারন চাইলে সকল function  দিয়ে object create করতে পারি।

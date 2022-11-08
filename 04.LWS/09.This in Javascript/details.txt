@@ -1,0 +1,6 @@
+This একটা Function কে Difrent context এ Reuse করতে help করে। 
+৪টা রুলসঃ
+1. Implicit Binding 
+2. Explicit binding 
+3. New Binding
+4. Window Binding
